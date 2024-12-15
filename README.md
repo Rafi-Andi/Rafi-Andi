@@ -19,3 +19,6 @@ Hi, my name is Moch. Rafi Andi Prayitno and I are currently studying full stack 
 ![](https://github-contributor-stats.vercel.app/api?username=Rafi-Andi&limit=5&theme=highcontrast&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+![snake gif](https://github.com/Rafi-Andi/Rafi-Andi/blob/output/github-snake-dark.svg)
